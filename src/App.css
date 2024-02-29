@@ -21,14 +21,14 @@ button {
   background-color: #4caf50;
   margin-left: 10px;
 }
-.wrapper__cards {
+.weather-cards {
   width: 100vw;
   margin-top: 50px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
 }
-.card {
+.weather-card {
   padding: 10px;
   display: flex;
   flex-direction: column;
